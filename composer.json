@@ -1,0 +1,17 @@
+{
+    "name": "rernandez/string-utils",
+    "description": "A basic class providing some utility functions for manipulating strings",
+    "type": "project",
+    "require": {},
+    "authors": [
+        {
+            "name": "Romain Ernandez",
+            "email": "romain.ernandez@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"StringUtils\\": "src/"
+    	}
+    }
+}
